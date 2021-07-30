@@ -22,7 +22,7 @@ async def start(client, message):
                     ],
                     [
                         InlineKeyboardButton(
-                            "⭕️ JOIN OUR CHANNEL ⭕️", url="https://t.me/Trolldcompany")
+                            "⭕️ JOIN OUR CHANNEL ⭕️", url="https://t.me/izaanump4")
                     ]
                 ]
             ),
@@ -45,7 +45,7 @@ async def help(client, message):
                     ],
                     [
                         InlineKeyboardButton(
-                            "⭕️ SUPPORT ⭕️", url="https://t.me/n_a_c_bot_developers")
+                            "⭕️ SUPPORT ⭕️", url="https://instagram.com/izaanu_mp4?utm_medium=copy_link")
                     ]
                 ]
             ),
@@ -68,7 +68,7 @@ async def about(client, message):
                     ],
                     [
                         InlineKeyboardButton(
-                            "SOURCE CODE", url="https://github.com/nikhileashy/dcfilter")
+                            "SOURCE CODE", url="https://github.com/Anshifizaanu/dcfilter")
                     ]
                 ]
             ),
